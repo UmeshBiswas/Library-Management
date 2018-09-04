@@ -1,0 +1,9 @@
+E:\SDP\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+E:\SDP\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+E:\SDP\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+E:\SDP\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+E:\SDP\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+E:\SDP\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\SDP\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\SDP\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\SDP\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
